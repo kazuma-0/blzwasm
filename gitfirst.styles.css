@@ -1,0 +1,39 @@
+/* /Pages/Counter.razor.rz.scp.css */
+.h100[b-ap4ag22067]{
+    min-height: 100vh;
+}
+/* /Pages/Home.razor.rz.scp.css */
+.h100[b-nb078g71fu]{
+    min-height: 100vh;
+}
+
+
+.concolor[b-nb078g71fu]{
+    animation: diffcolor-b-nb078g71fu 5s infinite forwards;
+}
+@media screen and (min-width: 1000px) {
+    
+    .underline[b-nb078g71fu]{
+        height: 10px;
+        width: 34%;
+    }
+    
+}
+
+@keyframes diffcolor-b-nb078g71fu {
+    0%{
+        color: #564138;
+    }
+    30%{
+        color:#2E86AB
+    }
+    50%{
+        color: #F6F5AE;
+    }
+    80%{
+        color: #F5F749;
+    }
+    100%{
+        color: #F24236;
+    }
+}
